@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:500');
+
+body {
+    background: aliceblue; 
+    font-family: "Ubuntu", sans-serif;
+    text-align: center;
+    text-decoration-color: #031823
+}
+
+.link {
+    text-decoration: none; 
+    color: #031823;
+}
+
+.myForm {
+    width: 100%;
+}
